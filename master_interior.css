@@ -1,0 +1,126 @@
+#menuu338
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("../images/portrait.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u363
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u364-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 27px;
+	line-height: 32px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	position: relative;
+}
+
+#u363:hover #u364-4 p
+{
+	color: #000000;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u356
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u358-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 27px;
+	line-height: 32px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	position: relative;
+}
+
+#u356:hover #u358-4 p
+{
+	color: #000000;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u390-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 27px;
+	line-height: 32px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	position: relative;
+}
+
+#u387:hover #u390-4 p
+{
+	color: #000000;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u431-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 27px;
+	line-height: 32px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	font-style: italic;
+	position: relative;
+}
+
+#u430:hover #u431-4 p
+{
+	color: #000000;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u363.MuseMenuActive #u364-4 p,#u356.MuseMenuActive #u358-4 p,#u387.MuseMenuActive #u390-4 p,#u430.MuseMenuActive #u431-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u362,#u355,#u386,#u387,#u427,#u430,#u330-3
+{
+	position: relative;
+}
+
