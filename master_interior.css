@@ -3,7 +3,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: fixed;
-	background: transparent url("../images/portrait.jpg") no-repeat center center;
+	background: transparent url("portrait.jpg") no-repeat center center;
 	background-size: cover !important;
 }
 
