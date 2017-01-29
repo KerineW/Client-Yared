@@ -1,0 +1,29 @@
+.html
+{
+	background: #7F7F7F url("../images/whitehp.jpg") no-repeat left top scroll;
+	background-size: cover !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 0px;
+	min-height: 0px;
+	padding-top: 62px;
+	padding-right: 960px;
+	padding-bottom: 438px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,80 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/form_check.php</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/scripts/form_check.php</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/form_throttle.php</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/scripts/form_throttle.php</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/form-u291.php</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/scripts/form-u291.php</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/whitehp.jpg</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/images/master.png</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/portrait.jpg</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/images/portrait.jpg</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/u293-17.png</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/images/u293-17.png</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/u293-17-r.png</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/images/u293-17-r.png</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/u293-17-m.png</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/images/u293-17-m.png</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://github.com/KerineW/Client-Yared/u293-17-fs.png</loc>
-    <lastmod>2016-08-08</lastmod>
+    <loc>https://github.com/KerineW/Client-Yared/images/u293-17-fs.png</loc>
+    <lastmod>2017-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://github.com/KerineW/Client-Yared/images/whitehp.jpg</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://github.com/KerineW/Client-Yared/index.html</loc>
-    <lastmod>2016-08-08</lastmod>
+    <lastmod>2016-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://github.com/KerineW/Client-Yared/blog.html</loc>
-    <lastmod>2016-07-27</lastmod>
+    <lastmod>2016-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://github.com/KerineW/Client-Yared/contact.html</loc>
-    <lastmod>2016-07-27</lastmod>
+    <lastmod>2016-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://github.com/KerineW/Client-Yared/estore.html</loc>
-    <lastmod>2016-07-27</lastmod>
+    <lastmod>2016-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://github.com/KerineW/Client-Yared/home.html</loc>
+    <lastmod>2016-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,37 +1,39 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="master_a-master.css" crc="4154977799" ref="index"/>
-    <file name="master_interior.css" crc="316590333" ref="estore:blog:contact"/>
-    <file name="estore.css" crc="399019599" ref="estore"/>
-    <file name="index.css" crc="522016533" ref="index"/>
-    <file name="iefonts_index.css" crc="333881936" ref="index"/>
-    <file name="blog.css" crc="3897099369" ref="blog"/>
-    <file name="contact.css" crc="3820547637" ref="contact"/>
+    <file name="master_interior.css" crc="317922980" ref="estore:blog:contact"/>
+    <file name="index.css" crc="3955003044" ref="index"/>
+    <file name="iefonts_index.css" crc="336986780" ref="index"/>
+    <file name="estore.css" crc="159102834" ref="estore"/>
+    <file name="blog.css" crc="63591514" ref="blog"/>
+    <file name="home.css" crc="493403957" ref="home"/>
+    <file name="contact.css" crc="4197664740" ref="contact"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:contact:estore"/>
-    <file name="museutils.js" crc="3865766194" ref="index:blog:contact:estore"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:blog"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:blog:contact:estore"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:contact:estore:home"/>
+    <file name="museutils.js" crc="3865766194" ref="index:blog:contact:estore:home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:blog:home"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="index:blog:contact:estore"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:blog:contact:estore"/>
-    <file name="jquery.scrolleffects.js" crc="3937082470" ref="blog:contact:estore"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="blog:contact:estore"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="blog:contact:estore:home"/>
     <file name="webpro.js" crc="3903299128" ref="contact"/>
     <file name="form_check.php" crc="4257733307" ref="contact"/>
     <file name="form_throttle.php" crc="3966014863" ref="contact"/>
     <file name="form-u291.php" crc="101350929" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="whitehp.jpg" crc="3891272744" ref="index"/>
+    <file name="master.png" crc="502346828" ref="index"/>
     <file name="portrait.jpg" crc="4204124248" ref="blog"/>
     <file name="u293-17.png" crc="236349253" ref="contact"/>
     <file name="u293-17-r.png" crc="401733888" ref="contact"/>
     <file name="u293-17-m.png" crc="345933530" ref="contact"/>
     <file name="u293-17-fs.png" crc="3869785650" ref="contact"/>
+    <file name="whitehp.jpg" crc="3891272744" ref="home"/>
   </folder>
-  <file name="index.html" crc="411384990" mt="1470668039245" redirect="true"/>
-  <file name="blog.html" crc="25448971" mt="1469641441591" redirect="true"/>
-  <file name="contact.html" crc="402299935" mt="1469641441596" redirect="true"/>
-  <file name="estore.html" crc="4161802569" mt="1469641441602" redirect="true"/>
+  <file name="index.html" crc="66696736" mt="1483154859457" redirect="true"/>
+  <file name="blog.html" crc="3808603558" mt="1483154370827" redirect="true"/>
+  <file name="contact.html" crc="3970974854" mt="1483154370830" redirect="true"/>
+  <file name="estore.html" crc="89165856" mt="1483154370832" redirect="true"/>
+  <file name="home.html" crc="497476019" mt="1483154665379" redirect="false"/>
 </manifest>
